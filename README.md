@@ -2,15 +2,15 @@
 
 A Fake REST API using json-server with JWT authentication. 
 
-Implemented End-points: login,register
-
 ## Install
 
 ```bash
-$ npm install
+clone the GIT repository
+npm install
+npm run - this command will start up React, JSON-server & server.js file
 ```
 
-## How to login/register?
+## How to login?
 
 You can login by using the credentials below (or any email/password combo from the users.json file):
 
