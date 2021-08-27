@@ -40,7 +40,7 @@ const PaginationUsers = () => {
   //let token = sessionStorage.getItem('token');
 
   useEffect(() => {
-    getAllUsers();
+    getAllUsers(pageNumber);
   }, [pageNumber]);
 
   // Sometimes the API returns an object, other times an array. Handling is in place. It should work regardless now.
@@ -52,7 +52,11 @@ const PaginationUsers = () => {
       let users = allUsers.data.users;
       let finalArray = [];
       users.forEach(user => {
-        finalArray.push(user);
+        finalArray.push(user)
+        if (finalArray.length === 4) {
+          console.log('LENGTH of 4 reached')
+          return finalArray;
+        }
       });
       setUserList(finalArray);
     } else {
