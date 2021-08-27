@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Bryan",
+      "email": "bryanamezcua@gmail.com",
+      "age": 25,
+      "job": "Senior Software Engineer"
+    },
+    {
+      "id": 2,
+      "first_name": "Gina",
+      "email": "gina@gmail.com",
+      "age": 22,
+      "job": "Bank Teller"
+    },
+    {
+      "id": 3,
+      "first_name": "Steven",
+      "email": "steven@gmail.com",
+      "age": 29,
+      "job": "Waiter"
+    },
+    {
+      "id": 4,
+      "first_name": "Veronica",
+      "email": "veronica@aol.com",
+      "age": 49,
+      "job": "Professional Mom"
+    },
+    {
+      "email": "tester@aol.com",
+      "first_name": "test",
+      "job": "tester",
+      "age": "123",
+      "id": 5
+    },
+    {
+      "userID": "6",
+      "email": "adam_sandler",
+      "first_name": "Adam Sandler",
+      "job": "Actor",
+      "age": "32",
+      "id": 6
+    },
+    {
+      "email": "wearetesting@aol.com",
+      "first_name": "tester",
+      "job": "tester",
+      "age": "56",
+      "id": 7
+    },
+    {
+      "userID": "8",
+      "email": "alexcasillas@aol.com",
+      "first_name": "Alex Casillas",
+      "job": "Business Owner",
+      "age": "63",
+      "id": 8
+    },
+    {
+      "email": "onemoretime@yahoo.com",
+      "first_name": "Daft Punk",
+      "job": "DJ",
+      "age": "35",
+      "id": 9
+    },
+    {
+      "email": "youngthug@aol.com",
+      "first_name": "Young Thug",
+      "job": "Rapper",
+      "age": "30",
+      "id": 10
+    },
+    {
+      "email": "mocha@aol.com",
+      "first_name": "Mocha Amezcua",
+      "job": "Kitty Cat",
+      "age": "1",
+      "id": 11
+    },
+    {
+      "email": "Latte@aol.com",
+      "first_name": "Latte",
+      "job": "Kitty Cat",
+      "age": "1",
+      "id": 12
+    },
+    {
+      "userID": "13",
+      "email": "luka@madrid.com",
+      "first_name": "Luka",
+      "job": "Athlete",
+      "age": "24",
+      "id": 13
+    },
+    {
+      "email": "robert@aol.com",
+      "first_name": "Robert",
+      "job": "CPA",
+      "age": "23",
+      "id": 14
+    },
+    {
+      "email": "Cristiano@madrid.com",
+      "first_name": "Cristiano Ronaldo",
+      "job": "Athlete",
+      "age": "31",
+      "id": 15
+    },
+    {
+      "email": "cwampler@upsellit.com",
+      "first_name": "Chris Wampler",
+      "job": "CEO",
+      "age": "35",
+      "id": 16
+    }
+  ]
+}
